@@ -1,0 +1,24 @@
+{
+    "name": "@lucasbrunner/ts-std-extensions",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^3.8.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LucasBrunner/ts-std-extensions.git"
+    },
+    "author": "Lucas Brunner",
+    "license": "MIT/APACHE 2.0",
+    "bugs": {
+        "url": "https://github.com/LucasBrunner/ts-std-extensions/issues"
+    },
+    "homepage": "https://github.com/LucasBrunner/ts-std-extensions#readme",
+    "description": ""
+}
