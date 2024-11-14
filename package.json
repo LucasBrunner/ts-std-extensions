@@ -3,12 +3,15 @@
     "version": "1.0.0",
     "main": "./index.js",
     "types": "./index.d.ts",
+    "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "build": "tsc"
+        "build": "tspc"
     },
     "devDependencies": {
-        "typescript": "^3.8.3"
+        "ts-patch": "^3.2.1",
+        "typescript": "^5",
+        "typescript-transform-paths": "^3.5.2"
     },
     "repository": {
         "type": "git",
