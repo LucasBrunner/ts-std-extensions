@@ -1,1 +1,11 @@
-dist
+*
+!/src
+!/src/**/*
+!/.gitignore
+!/.npmignore
+!/.prettierrc
+!/LICENSE-APACHE
+!/LICENSE-MIT
+!/package.json
+!/package-lock.json
+!/tsconfig.json
